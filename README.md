@@ -26,7 +26,7 @@ Atualmente, estou em transição para me tornar **100% Desenvolvedor Java**, apr
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -35,7 +35,7 @@ Atualmente, estou em transição para me tornar **100% Desenvolvedor Java**, apr
 </p>
 
 ---
-
+-->
 ## 📫 Como me encontrar  
 
 <p align="center">
