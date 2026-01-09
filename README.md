@@ -38,17 +38,5 @@ Atualmente, estou em transição para me tornar **100% Desenvolvedor Java**, apr
 
 ---
 -->
-## 📫 Como me encontrar  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariostoque/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:stoque.stoqueprogramador@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/StoqueMario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
