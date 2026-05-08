@@ -1,18 +1,17 @@
 <!-- Apresentação -->
 <h1 align="center"> 🦾 Olá, eu sou o Stoque!</h1>
 <p align="center">
-  Desenvolvedor Full Stack focado em <b>Backend</b> | Python & Java 🚀
+  Desenvolvedor Full Stack focado em <b>Backend</b> | Python & Golang
 </p>
 
 ---
 
-## 🚀 Sobre mim  
+##  Sobre mim  
 Meu nome é **Mário Stoque**, mais conhecido como **Stoque**. 
 Faço faculdade de Sistemas da Computação na **UFF**.
 
 Atuo como **Desenvolvedor Full Stack**, com maior afinidade no **desenvolvimento Backend**, principalmente utilizando **Python**.  
 
-Atualmente, estou em transição para me tornar **100% Desenvolvedor Java**, aprofundando meus estudos na linguagem e em seu ecossistema para entregar soluções robustas e escaláveis.  
 
 
 ---
