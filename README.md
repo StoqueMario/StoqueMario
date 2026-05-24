@@ -1,6 +1,6 @@
-#Stoque
+## Stoque
 
-## Desenvolvedor de Software | Engenheiro de Plataforma
+## Desenvolvedor de Software 
 
 Olá! Sou responsável pela tecnologia na **Safie**, atuando no desenvolvimento full-stack, engenharia de software e infraestrutura. Trabalho para construir sistemas escaláveis, seguros e de alta performance.
 
