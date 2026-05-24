@@ -6,12 +6,11 @@ Olá! Sou responsável pela tecnologia na **Safie**, atuando no desenvolvimento 
 
 ---
 
-## 🛠️ Stack Principal
+##  Stack Principal
 
 **Back-end**
 - Go (Golang)
 - Python
-- Node.js / TypeScript
 
 **Front-end**
 - React
@@ -32,7 +31,7 @@ Olá! Sou responsável pela tecnologia na **Safie**, atuando no desenvolvimento 
 
 ---
 
-## 💼 Sobre mim
+##  Sobre mim
 
 Sou o **responsável pela tecnologia na Safie**, onde lidero e executo projetos de:
 
@@ -46,27 +45,9 @@ Atuo tanto no desenvolvimento de features quanto na manutenção da plataforma c
 
 ---
 
-## 📌 Projetos em Destaque
 
-| Projeto | Descrição |
-|---------|-----------|
-| **SafieDesk** | Plataforma completa de gestão de tickets e atendimento com chat, notificações e IA |
-| **Marquei** | Sistema de agendamento com Stripe, cache Redis e dashboard administrativo |
-| **Assistente Virtual** | Chatbot com IA (Claude) para atendimento automático e perguntas frequentes |
-
----
 
 ## 📫 Onde me encontrar
 
-- LinkedIn: [Seu LinkedIn]
-- E-mail: seuemail@exemplo.com
-
----
-
-## 📊 GitHub Stats
-
-![SeuNome GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuNome&show_icons=true&theme=dark)
-
----
-
-*"Código limpo, sistemas robustos e entregas que fazem a diferença."*
+- LinkedIn: www.linkedin.com/in/mário-stoque
+- E-mail: stoqueprogramador@gmail.com
