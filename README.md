@@ -47,7 +47,7 @@ Atuo tanto no desenvolvimento de features quanto na manutenção da plataforma c
 
 
 
-## 📫 Onde me encontrar
+##  Onde me encontrar
 
 - LinkedIn: www.linkedin.com/in/mário-stoque
 - E-mail: stoqueprogramador@gmail.com
