@@ -33,7 +33,7 @@ Sou responsável pela tecnologia na **MBM**, atuando no desenvolvimento full-sta
 
 ##  Sobre mim
 
-Sou o **responsável pela tecnologia na Safie**, onde lidero e executo projetos de:
+Sou o **responsável pela tecnologia na MBM**, onde lidero e executo projetos de:
 
 - **Engenharia de software** — arquitetura, modelagem de dados e design de APIs
 - **Infraestrutura** — deploy, monitoramento, caching com Redis e orquestração com Docker
