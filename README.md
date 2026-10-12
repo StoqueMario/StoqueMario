@@ -2,7 +2,7 @@
 
 ## Desenvolvedor de Software 
 
-Sou responsável pela tecnologia na **Safie**, atuando no desenvolvimento full-stack, engenharia de software e infraestrutura. Trabalho para construir sistemas escaláveis, seguros e de alta performance.
+Sou responsável pela tecnologia na **MBM**, atuando no desenvolvimento full-stack, engenharia de software e infraestrutura. Trabalho para construir sistemas escaláveis, seguros e de alta performance.
 
 ---
 
